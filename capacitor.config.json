@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Teclado Virtual Adaptado",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

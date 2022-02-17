@@ -1,0 +1,8 @@
+{
+  "name": "Teclado Virtual Adaptado",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e5913ffa"
+}
